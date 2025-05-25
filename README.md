@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Front-end focado em criar interfaces modernas e responsivas  
-🌱 Atualmente aprendendo React.js, Git e boas práticas de acessibilidade  
+🌱 Atualmente aprendendo tailwind.css, e boas práticas de acessibilidade  
 📚 Curioso por tecnologia, sempre buscando evoluir
 
 ## 🚀 Tecnologias
