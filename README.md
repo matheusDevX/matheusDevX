@@ -16,5 +16,5 @@
 ---
 
 ### 📫 Vamos conectar?
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- 📧 matheus@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-gonçalves-2270202bb)
+- 📧 matheusgoncalves3008@email.com
